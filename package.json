@@ -1,6 +1,6 @@
 {
-    "title": "Stylish Portfolio",
-    "name": "startbootstrap-stylish-portfolio",
+    "title": "LocalApps99",
+    "name": "Localapps99",
     "version": "5.0.9",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -14,10 +14,10 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/stylish-portfolio",
+    "homepage": "https://localapps99.github.io/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://localapps99.github.io//issues",
+        "email": ""
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git"
+        "url": "https://github.com/LocalApps99/localapps99.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.15.1",
