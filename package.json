@@ -1,6 +1,6 @@
 {
     "title": "LocalApps99",
-    "name": "Localapps99",
+    "name": "LocalApps99",
     "version": "5.0.9",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -17,12 +17,12 @@
     "homepage": "https://localapps99.github.io/",
     "bugs": {
         "url": "https://localapps99.github.io//issues",
-        "email": ""
+        "email": " "
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        " "
     ],
     "repository": {
         "type": "git",
